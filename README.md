@@ -20,8 +20,7 @@ There are some known problems:
 - The rendering of the Streamlit Audio Recorder components initially sends a recording with size 0 bytes to Whisper: Solution is to reset and repeat. 
 - ChatGPT has returned responses based on more literal rendering of sounds.  Solution is to trust but verify.  
 
-A docker image...
-
+---------------------------------------------------------
 ## Resources Used:
 - [OpenAI Whisper](https://platform.openai.com/docs/guides/speech-to-text)
 - [OpenAI ChatGPT](https://platform.openai.com/docs/guides/chat)
